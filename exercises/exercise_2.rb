@@ -13,3 +13,6 @@ puts "----------"
 @store1.update(name: 'New Brunswick')
 
 
+
+
+
